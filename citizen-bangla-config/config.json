@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "freeQuestionGroups": 5,
+  "freeFlashcardGroups": 5,
+  "requiresPremiumBeyondFree": true,
+  "minimumAppVersion": "1.0"
+}
