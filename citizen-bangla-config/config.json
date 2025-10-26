@@ -2,6 +2,6 @@
   "version": "1.0",
   "freeQuestionGroups": 5,
   "freeFlashcardGroups": 5,
-  "requiresPremiumBeyondFree": true,
+  "requiresPremiumBeyondFree": false,
   "minimumAppVersion": "1.0"
 }
